@@ -6,7 +6,7 @@ An end-to-end data analysis project evaluating sales trends, customer purchasing
 
 ## 🖥️ Dashboard Overview
 
-![Pizza Sales Insights](Pizza Sales Insights.png)
+![Pizza Sales Insights](Pizza%20Sales%20Insights.png)
 
 
 ---
